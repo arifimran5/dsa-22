@@ -1,3 +1,2 @@
 ## Link
-
-<a>https://leetcode.com/problems/reverse-integer/</a>
+https://leetcode.com/problems/reverse-integer/
